@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Delphi Veritas Inc. is building a product to allow users to exercise their data rights granted to them under HIPAA that they are currently unable to exercise in a practical manner.
+
+This will enable personalized medicine and ease in changing doctors when insurance carriers chang. 
 <!--
 
 **Here are some ideas to get you started:**
